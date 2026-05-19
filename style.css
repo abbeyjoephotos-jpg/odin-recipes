@@ -1,0 +1,120 @@
+* {
+    background-color: black;
+    color: white;
+    font: 16px;
+    margin: 0 auto;
+    padding: 8px;
+    border: 2px solid red;
+}
+
+.title {
+    background-color: darkslategray;
+    color: blanchedalmond;
+    font-size: 32px;
+    text-align: center;
+    margin: 0;
+ 
+}
+
+.pasta {
+    list-style-position: inside;
+    color: blue;
+    margin-left: 23%;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: 25%;
+
+}
+
+.pasta-recipe {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lamb-recipe {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lamb {
+    list-style-position: inside;
+    color: blue;
+    margin-left: 20%;
+}
+
+.stew-recipe {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.stew {
+    list-style-position: inside;
+    color: blue;
+    margin-left: 21%;
+}
+
+.chip-recipe {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.chip {
+    list-style-position: inside;
+    color: blue;
+    margin-left: 20%;
+}
+
+.home {
+    color: red;
+    margin-left: 20px;
+    display: flex;
+}
+.describe {
+    text-align: center;
+    font-size: 20px;
+    color: lightgrey;
+    margin-bottom: 15px;
+}
+.steps {
+    font-family: "Playfair Display", serif;
+    font-size: 28px;
+    text-align: center;
+    font-style: italic;
+}
+.directions {
+    width: fit-content;
+    margin: 0, auto;
+    font-family: Georgia, serif;
+    font-size: 18px;
+    padding: 16px;
+}
+.plate-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    transform: rotate(270deg)
+}
+.index {
+    display: block;
+    padding-left: 4%;
+    padding-right: auto;
+}
+.index a {
+    color: blue;
+}
+.lamb-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    transform: rotate(90deg)
+}
