@@ -4,7 +4,6 @@
     font: 16px;
     margin: 0 auto;
     padding: 8px;
-    border: 2px solid red;
 }
 
 .title {
@@ -13,7 +12,11 @@
     font-size: 32px;
     text-align: center;
     margin: 0;
+    border: 2px solid lightgoldenrodyellow;
  
+}
+.home-title {
+    margin-bottom: 30px;
 }
 
 .pasta {
@@ -26,6 +29,7 @@
     display: block;
     margin-left: auto;
     margin-right: 25%;
+    border: solid lightgoldenrodyellow;
 
 }
 
@@ -75,7 +79,6 @@
 .home {
     color: red;
     margin-left: 20px;
-    display: flex;
 }
 .describe {
     text-align: center;
@@ -90,31 +93,64 @@
     font-style: italic;
 }
 .directions {
-    width: fit-content;
-    margin: 0, auto;
+    margin-left: 15%;
     font-family: Georgia, serif;
     font-size: 18px;
-    padding: 16px;
+    padding: 30px;
 }
 .plate-img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
-    transform: rotate(270deg)
+    margin-top: 20px;
+    transform: rotate(270deg);
+    border: solid lightgoldenrodyellow;
+    
 }
 .index {
     display: block;
-    padding-left: 4%;
+    padding-left: 2%;
     padding-right: auto;
-}
-.index a {
     color: blue;
 }
+
 .lamb-img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
-    transform: rotate(90deg)
+    margin-top: 20px;
+    transform: rotate(90deg);
+    border: solid lightgoldenrodyellow;
+}
+.chip-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    border: lightgoldenrodyellow;
+}
+.stew-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    border: solid lightgoldenrodyellow;
+}
+.link:hover {
+    transform: scale(1.2);
+    color: blue;
+}
+
+.index:hover {
+    transform: scale 1.2;
+    color: hotpink;
+}
+
+.home:hover {
+    transform: scale(1.1);
+    color: purple;
 }
