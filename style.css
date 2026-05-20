@@ -32,7 +32,7 @@
     background-repeat: no-repeat;
 }
 .homebg {
-    background-image: url(Users/joeabbey/repos/odin-recipes/images/pantry.jpg);
+    background-image: url(/Users/joeabbey/repos/odin-recipes/images/home-cooking.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -51,11 +51,6 @@
     margin-bottom: 30px;
 }
 
-.pasta {
-    list-style-position: inside;
-    color: blue;
-    margin-left: 23%;
-}
 
 .img {
     display: block;
@@ -77,10 +72,13 @@
     align-items: center;
 }
 
-.lamb {
+.link {
     list-style-position: inside;
-    color: blue;
+    color: rgb(233, 233, 211);
+    font-style: italic;
+    font-weight: 700;
     margin-left: 20%;
+    font-size: 20px;
 }
 
 .stew-recipe {
@@ -89,23 +87,11 @@
     align-items: center;
 }
 
-.stew {
-    list-style-position: inside;
-    color: blue;
-    margin-left: 21%;
-}
-
 .chip-recipe {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-bottom: 20px;
-}
-
-.chip {
-    list-style-position: inside;
-    color: blue;
-    margin-left: 20%;
 }
 
 .home {
@@ -135,13 +121,13 @@
     padding-left: 20%;
 }
 .plate-img {
+    border: 2px solid rgb(43, 43, 39);
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
     margin-top: 20px;
     transform: rotate(270deg);
-    border: solid lightgoldenrodyellow;
     
 }
 .index {
@@ -152,34 +138,35 @@
 }
 
 .lamb-img {
+    border: 10px solid rgb(43, 43, 39);
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
     margin-top: 20px;
     transform: rotate(90deg);
-    border: solid lightgoldenrodyellow;
+    
 }
 .chip-img {
+    border: solid rgb(43, 43, 39);
     background-color: black;
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
     margin-top: 20px;
-    border: lightgoldenrodyellow;
 }
 .stew-img {
+    border: 10px solid rgb(43, 43, 39);
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
     margin-top: 20px;
-    border: solid lightgoldenrodyellow;
 }
 .link:hover {
     transform: scale(1.2);
-    color: blue;
+    color: lightgoldenrodyellow;
 }
 
 .index:hover {
@@ -192,4 +179,9 @@
     transform: scale(1.2);
     color: purple;
     text-shadow: 2px 2px 5px black;
+}
+.highlight {
+    font-size: 18px;
+    font-weight: 700;
+    font-style: italic;
 }
