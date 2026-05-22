@@ -3,29 +3,29 @@
     font: 16px;
     padding: 8px;
 }
-.chipbg {
-    background-image: url(/Users/joeabbey/repos/odin-recipes/images/kitchen1.jpg);
+.cannolibg {
+    background-image: url(https://images.openai.com/static-rsc-4/kKOfW82UVrC74rAb7Be6H3HQ5KmCwY5kv8LMxATPm-mAz7F393TQJWq_g_eT1k9SnfPMG6v5ZMe0VFSb6WQXZTNYaznb2CTn7I24bsv4jrtRtxNOdDyMNyhHswaZ0S7M5cOgh7S3n7QrSTH2SzXA2q-CL1fRoin1anq5i78xspzvS4cR0tZh6sriC_7no8Tw?purpose=fullsize);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
 .pastabg {
-    background-image: url(/Users/joeabbey/repos/odin-recipes/images/drypasta.jpg);
+    background-image: url(https://images.openai.com/static-rsc-4/yRYHc-WUlCTGwmXoxUT3v8FdRSroU4y1moWzImfzr8BHR_aS87kb0tmgvDWeIZlu3ZmyNYOGveeO3SzFgbbAdGsdGBN2NKzOQLA36LZIKWbHmTGup2L9iDUIQIN3XEsGZb7nj-K0B1lPHMbOU2KNTc_L0z5yZr0knfwYW59W-zOxzGu6oFfkpcqakCvsgY-6?purpose=fullsize);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
-.stewbg {
-    background-image: url(/Users/joeabbey/repos/odin-recipes/images/largepot.jpg);
+.eelbg {
+    background-image: url(https://images.openai.com/static-rsc-4/yRYHc-WUlCTGwmXoxUT3v8FdRSroU4y1moWzImfzr8BHR_aS87kb0tmgvDWeIZlu3ZmyNYOGveeO3SzFgbbAdGsdGBN2NKzOQLA36LZIKWbHmTGup2L9iDUIQIN3XEsGZb7nj-K0B1lPHMbOU2KNTc_L0z5yZr0knfwYW59W-zOxzGu6oFfkpcqakCvsgY-6?purpose=fullsize);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
-.lambbg {
-    background-image: url(/Users/joeabbey/repos/odin-recipes/images/white.jpg);
+.codbg {
+    background-image: url(https://images.openai.com/static-rsc-4/yRYHc-WUlCTGwmXoxUT3v8FdRSroU4y1moWzImfzr8BHR_aS87kb0tmgvDWeIZlu3ZmyNYOGveeO3SzFgbbAdGsdGBN2NKzOQLA36LZIKWbHmTGup2L9iDUIQIN3XEsGZb7nj-K0B1lPHMbOU2KNTc_L0z5yZr0knfwYW59W-zOxzGu6oFfkpcqakCvsgY-6?purpose=fullsize);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -38,6 +38,63 @@
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
+.octopusbg {
+    background-image: url(https://images.openai.com/static-rsc-4/yRYHc-WUlCTGwmXoxUT3v8FdRSroU4y1moWzImfzr8BHR_aS87kb0tmgvDWeIZlu3ZmyNYOGveeO3SzFgbbAdGsdGBN2NKzOQLA36LZIKWbHmTGup2L9iDUIQIN3XEsGZb7nj-K0B1lPHMbOU2KNTc_L0z5yZr0knfwYW59W-zOxzGu6oFfkpcqakCvsgY-6?purpose=fullsize);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.crabbg {
+    background-image: url(https://images.openai.com/static-rsc-4/6j-_Zy0uJCe0dvaylaoAfXaMm9AWzWlpd-WW9xuOCdHGeIRqe5htQZePp6FL-zafYUJWOL5JIXc2aQBcGFlB-7W87hPDjY4dm7Ol8h8X7M_3OCKNvJwvHHdUhnkprTSJBQxU-nHThtAMCqUxRmYliQUlNIpOsS2HTFrcItfUTtlHA0oZjZzw0qZiFKEv2ZaL?purpose=fullsize);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.shrimpbg {
+    background-image: url(https://images.openai.com/static-rsc-4/6j-_Zy0uJCe0dvaylaoAfXaMm9AWzWlpd-WW9xuOCdHGeIRqe5htQZePp6FL-zafYUJWOL5JIXc2aQBcGFlB-7W87hPDjY4dm7Ol8h8X7M_3OCKNvJwvHHdUhnkprTSJBQxU-nHThtAMCqUxRmYliQUlNIpOsS2HTFrcItfUTtlHA0oZjZzw0qZiFKEv2ZaL?purpose=fullsize);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.bruschettabg {
+    background-image: url(https://images.openai.com/static-rsc-4/6j-_Zy0uJCe0dvaylaoAfXaMm9AWzWlpd-WW9xuOCdHGeIRqe5htQZePp6FL-zafYUJWOL5JIXc2aQBcGFlB-7W87hPDjY4dm7Ol8h8X7M_3OCKNvJwvHHdUhnkprTSJBQxU-nHThtAMCqUxRmYliQUlNIpOsS2HTFrcItfUTtlHA0oZjZzw0qZiFKEv2ZaL?purpose=fullsize);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.tiramisubg {
+    background-image: url(https://images.openai.com/static-rsc-4/kKOfW82UVrC74rAb7Be6H3HQ5KmCwY5kv8LMxATPm-mAz7F393TQJWq_g_eT1k9SnfPMG6v5ZMe0VFSb6WQXZTNYaznb2CTn7I24bsv4jrtRtxNOdDyMNyhHswaZ0S7M5cOgh7S3n7QrSTH2SzXA2q-CL1fRoin1anq5i78xspzvS4cR0tZh6sriC_7no8Tw?purpose=fullsize);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.squidbg {
+    background-image: url(https://images.openai.com/static-rsc-4/yRYHc-WUlCTGwmXoxUT3v8FdRSroU4y1moWzImfzr8BHR_aS87kb0tmgvDWeIZlu3ZmyNYOGveeO3SzFgbbAdGsdGBN2NKzOQLA36LZIKWbHmTGup2L9iDUIQIN3XEsGZb7nj-K0B1lPHMbOU2KNTc_L0z5yZr0knfwYW59W-zOxzGu6oFfkpcqakCvsgY-6?purpose=fullsize);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.musselsbg {
+    background-image: url(https://images.openai.com/static-rsc-4/yRYHc-WUlCTGwmXoxUT3v8FdRSroU4y1moWzImfzr8BHR_aS87kb0tmgvDWeIZlu3ZmyNYOGveeO3SzFgbbAdGsdGBN2NKzOQLA36LZIKWbHmTGup2L9iDUIQIN3XEsGZb7nj-K0B1lPHMbOU2KNTc_L0z5yZr0knfwYW59W-zOxzGu6oFfkpcqakCvsgY-6?purpose=fullsize);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.branzinobg {
+    background-image: url(https://images.openai.com/static-rsc-4/yRYHc-WUlCTGwmXoxUT3v8FdRSroU4y1moWzImfzr8BHR_aS87kb0tmgvDWeIZlu3ZmyNYOGveeO3SzFgbbAdGsdGBN2NKzOQLA36LZIKWbHmTGup2L9iDUIQIN3XEsGZb7nj-K0B1lPHMbOU2KNTc_L0z5yZr0knfwYW59W-zOxzGu6oFfkpcqakCvsgY-6?purpose=fullsize);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
 .title {
     background-color: darkslategray;
     color: blanchedalmond;
@@ -47,70 +104,22 @@
     border: 2px solid lightgoldenrodyellow;
  
 }
-.home-title {
-    margin-bottom: 30px;
-}
 
-
-.img {
-    display: block;
-    margin-left: auto;
-    margin-right: 25%;
-    border: solid lightgoldenrodyellow;
-
-}
-
-.pasta-recipe {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.lamb-recipe {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.link {
-    list-style-position: inside;
-    color: rgb(233, 233, 211);
-    font-style: italic;
-    font-weight: 700;
-    margin-left: 20%;
-    font-size: 20px;
-}
-
-.stew-recipe {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.chip-recipe {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 20px;
-}
-
-.home {
-    color: red;
-    margin-left: 20px;
-}
 .describe {
     font-weight: bold;
     background-color: rgba(0, 0, 0, 0.4);
     text-align: center;
     font-size: 20px;
     color: rgb(237, 239, 238);
-    margin-bottom: 15px;
+    margin-bottom: 5px;
 }
 .steps {
     font-family: "Playfair Display", serif;
     font-size: 28px;
     text-align: center;
     font-style: italic;
+    background-color: darkslategray;
+    color: white
 }
 .directions {
     color: white;
@@ -121,67 +130,81 @@
     padding-left: 20%;
 }
 .plate-img {
-    border: 2px solid rgb(43, 43, 39);
+    border: 8px solid darkslategrey;
     display: block;
+    border-radius: 12px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
-    margin-top: 20px;
-    transform: rotate(270deg);
-    
-}
-.index {
-    display: block;
-    padding-left: 2%;
-    padding-right: auto;
-    color: blue;
+    margin-top: 20px; 
 }
 
-.lamb-img {
-    border: 10px solid rgb(43, 43, 39);
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 30px;
-    margin-top: 20px;
-    transform: rotate(90deg);
-    
-}
-.chip-img {
-    border: solid rgb(43, 43, 39);
-    background-color: black;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 30px;
-    margin-top: 20px;
-}
-.stew-img {
-    border: 10px solid rgb(43, 43, 39);
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 30px;
-    margin-top: 20px;
-}
-.link:hover {
-    transform: scale(1.2);
-    color: lightgoldenrodyellow;
-}
-
-.index:hover {
-    transform: scale 1.2;
-    color: rgb(205, 230, 242);
-    text-shadow: 2px 2px 5px black;
-}
-
-.home:hover {
-    transform: scale(1.2);
-    color: purple;
-    text-shadow: 2px 2px 5px black;
-}
 .highlight {
     font-size: 18px;
     font-weight: 700;
     font-style: italic;
+}
+.nav {
+    display: inline-block;
+    gap: 12px;
+    align-items:;
+}
+.nav-button {
+    background-color: #d4b483;
+    color: black;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    border: 2px solid #8b6b3f;
+    box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+    display: inline-block;
+    justify-content: flex-start;
+    gap: 15px;
+}
+.nav-button:hover {
+    transform: translateY(2px);
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.5);
+}
+.home-button {
+    background-color: salmon;
+    color: black;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    border: 2px solid gray;
+    box-shadow: 0px 6px 10px black;
+    font-weight: bold;
+    display: inline-block;
+}
+.home-button:hover {
+    transform: translateY(2px);
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.5);
+}
+
+.tip {
+    font-weight: 800;
+    background-color: rgba(0, 0, 0, 0.4);
+    text-align: center;
+    font-size: 25px;
+    color: rgb(218, 240, 19);
+    margin-bottom: 15px;
+}
+.prep {
+    font-family: "Playfair Display", serif;
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    background-color:#8b6b3f;
+    font-style: italic;
+    margin: 0 50px;
+}
+.h3 {
+    font-family: Georgia, serif;
+    font-weight: 600;
+    text-align: center;
+    font-style: italic;
+    background-color:rgb(46, 174, 174);
 }
